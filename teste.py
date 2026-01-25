@@ -1,0 +1,1 @@
+print("Olá a partir do meu disco C:")
