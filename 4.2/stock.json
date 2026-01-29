@@ -1,0 +1,23 @@
+[
+    {
+        "tipo": "telemovel",
+        "marca": "Samsung",
+        "modelo": "S24 Ultra",
+        "preco": 1400,
+        "camara": 200
+    },
+    {
+        "tipo": "portatil",
+        "marca": "Asus",
+        "modelo": "Zephyrus",
+        "preco": 2000,
+        "ram": 32
+    },
+    {
+        "tipo": "portatil",
+        "marca": "smasung",
+        "modelo": "vivobook",
+        "preco": 1200.0,
+        "ram": 32
+    }
+]
