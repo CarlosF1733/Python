@@ -2,8 +2,8 @@ import os
 os.system('cls' if os.name == 'nt' else 'clear')
 
 class Portatil:
+   
     # O que eu tenho (dados)
-    
     def __init__(self, marca, ram):
         self.marca = marca   # grava a marca dentro deste objeto
         self.ram = ram # grava o modelo dentro deste objeto
