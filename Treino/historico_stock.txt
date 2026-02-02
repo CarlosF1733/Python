@@ -1,0 +1,8 @@
+PRODUTOS EM STOCK
+Stock Final => Produto: Caneta | Stock: 0
+Stock Final => Produto: Caderno | Stock: 0
+Stock Final => Produto: Borracha | Stock: 0
+PRODUTOS EM STOCK
+Stock Final => Produto: Caneta | Stock: 0
+Stock Final => Produto: Caderno | Stock: 0
+Stock Final => Produto: Borracha | Stock: 0
