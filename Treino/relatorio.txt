@@ -1,0 +1,35 @@
+RELATÓRIO DOs TREINOS
+-------------------
+Atleta: Carlos | Energia Final: 80
+Atleta: Carol | Energia Final: 70
+Atleta: Monica | Energia Final: 60
+Atleta: Carlos | Energia Final: 70
+Atleta: Carol | Energia Final: 60
+Atleta: Monica | Energia Final: 50
+Atleta: Carlos | Energia Final: 60
+Atleta: Carol | Energia Final: 50
+Atleta: Monica | Energia Final: 40
+Atleta: Carlos | Energia Final: 50
+Atleta: Carol | Energia Final: 40
+Atleta: Monica | Energia Final: 30
+Atleta: Carlos | Energia Final: 40
+Atleta: Carol | Energia Final: 30
+Atleta: Monica | Energia Final: 20
+Atleta: Carlos | Energia Final: 30
+Atleta: Carol | Energia Final: 20
+Atleta: Monica | Energia Final: 10
+Atleta: Carlos | Energia Final: 20
+Atleta: Carol | Energia Final: 10
+Atleta: Monica | Energia Final: 0
+Atleta: Carlos | Energia Final: 10
+Atleta: Carol | Energia Final: 0
+Atleta: Monica | Energia Final: 0
+Atleta: Carlos | Energia Final: 0
+Atleta: Carol | Energia Final: 0
+Atleta: Monica | Energia Final: 0
+
+RELATÓRIO DE TREINO FINAL
+-------------------
+Atleta: Carlos | Energia Final: 0
+Atleta: Carol | Energia Final: 0
+Atleta: Monica | Energia Final: 0

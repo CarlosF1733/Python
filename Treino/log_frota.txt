@@ -1,0 +1,15 @@
+DIÁRIO DE BORDO DA FROTA
+==============================
+O Volvo FH percorreu 10km. Restam 80L no depósito.
+O Scania R500 percorreu 10km. Restam 40L no depósito.
+O Mercedes Actros percorreu 10km. Restam 20L no depósito.
+O Volvo FH percorreu 10km. Restam 60L no depósito.
+O Scania R500 percorreu 10km. Restam 20L no depósito.
+O Mercedes Actros percorreu 10km. Restam 0L no depósito.
+O Volvo FH percorreu 10km. Restam 40L no depósito.
+O Scania R500 percorreu 10km. Restam 0L no depósito.
+O Volvo FH percorreu 10km. Restam 20L no depósito.
+O Volvo FH percorreu 10km. Restam 0L no depósito.
+
+==============================
+FIM DA OPERAÇÃO - TODOS OS VEÍCULOS PARADOS
