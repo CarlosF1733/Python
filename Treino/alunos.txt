@@ -1,0 +1,30 @@
+aluno_01 ------------------
+Carlos Fonseca
+Idade: 51 anos
+CC: 12345678
+Curso: Eng. Informática
+Escola: ESTGV
+Email: carlosf@gmail.com
+Tlm: 961234567
+Morada: Viseu (3500-123)
+----------------------------
+aluno_02 ------------------
+Carol Martins
+Idade: 31 anos
+CC: 87654321
+Curso: Artes Plásticas
+Escola: ESAP
+Email: carol.art@hotmail.com
+Tlm: 912345678
+Morada: Lisboa (1000-050)
+----------------------------
+aluno_03 ------------------
+Monica Tavares
+Idade: 34 anos
+CC: 11223344
+Curso: Biologia
+Escola: UBM
+Email: monica.bio@sapo.pt
+Tlm: 933456789
+Morada: Aveiro (3800-200)
+----------------------------
