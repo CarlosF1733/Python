@@ -1,0 +1,25 @@
+aluno: 1733
+Sistemas Operativos: 16
+Redes Computadores: 15
+Engenharia de Software: 17
+-------------------------
+aluno: 1734
+Sistemas Operativos: 12
+Redes Computadores: 10
+Engenharia de Software: 11
+-------------------------
+aluno: 1735
+Sistemas Operativos: 18
+Redes Computadores: 19
+Engenharia de Software: 18
+-------------------------
+aluno: 1736
+Sistemas Operativos: 10
+Redes Computadores: 10
+Engenharia de Software: 10
+-------------------------
+aluno: 1737
+Sistemas Operativos: 14
+Redes Computadores: 13
+Engenharia de Software: 16
+-------------------------
