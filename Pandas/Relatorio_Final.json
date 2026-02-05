@@ -1,0 +1,32 @@
+[
+    {
+        "Produto":"Laptop",
+        "Quantidade":2,
+        "Preco_Unit":850.0,
+        "Total_Venda":1700.0
+    },
+    {
+        "Produto":"Rato",
+        "Quantidade":15,
+        "Preco_Unit":25.9,
+        "Total_Venda":388.5
+    },
+    {
+        "Produto":"Monitor",
+        "Quantidade":5,
+        "Preco_Unit":160.0,
+        "Total_Venda":800.0
+    },
+    {
+        "Produto":"Teclado",
+        "Quantidade":10,
+        "Preco_Unit":45.0,
+        "Total_Venda":450.0
+    },
+    {
+        "Produto":"Webcam",
+        "Quantidade":4,
+        "Preco_Unit":59.9,
+        "Total_Venda":239.6
+    }
+]
